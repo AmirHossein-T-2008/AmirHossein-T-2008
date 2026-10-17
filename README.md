@@ -8,8 +8,13 @@
     <a href="https://github.com/AmirHossein-T-2008">
       <img src="https://img.shields.io/badge/GitHub-AmirHossein--T--2008-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
+    <a href="https://hamgit.ir/amirhossein.toghyani1387">
+      <img src="https://img.shields.io/badge/Hamgit-GitLab%20Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Hamgit profile" />
+    </a>
+    <a href="https://instagram.com/amirhossein_toghyani87">
+      <img src="https://img.shields.io/badge/Instagram-@amirhossein__toghyani87-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+    </a>
     <img src="https://img.shields.io/badge/Focus-Front--End%20Development-7C3AED?style=for-the-badge" alt="Focus: Front-End Development" />
-    <img src="https://img.shields.io/badge/Theme-Neon%20%2F%20Dark-2563EB?style=for-the-badge" alt="Neon dark theme" />
   </p>
 
   <h3>Building clean, responsive and user-friendly web experiences.</h3>
@@ -51,7 +56,6 @@ Tools & Other Experience
   <img src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=111827" alt="Grunt" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
 </p>
 
 🚀 What I'm Working On
@@ -75,6 +79,16 @@ Project highlights will be added here as repositories are reviewed and documente
   <img src="https://streak-stats.demolab.com?user=AmirHossein-T-2008&hide_border=true&background=080B16&ring=7C3AED&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=DCE4F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
 
 </div>
+
+🔗 Connect With Me
+<p>
+  <a href="https://hamgit.ir/amirhossein.toghyani1387">
+    <img src="https://img.shields.io/badge/Hamgit-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Hamgit profile" />
+  </a>
+  <a href="https://instagram.com/amirhossein_toghyani87">
+    <img src="https://img.shields.io/badge/Instagram-amirhossein__toghyani87-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+  </a>
+</p>
 
 <div align="center">
 
