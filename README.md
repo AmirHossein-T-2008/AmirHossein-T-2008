@@ -1,97 +1,117 @@
-<!-- Neon dark profile README for AmirHossein-T-2008 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:4C1D95,100:2563EB&height=200&section=header&text=Amir%20Hossein&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer&descAlignY=60&descSize=18" alt="Amir Hossein — Front-End Developer" width="100%" />
+# 👋 Hi, I'm Amir Hossein Toghyani
 
-  <p>
-    <a href="https://github.com/AmirHossein-T-2008">
-      <img src="https://img.shields.io/badge/GitHub-AmirHossein--T--2008-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <a href="https://hamgit.ir/amirhossein.toghyani1387">
-      <img src="https://img.shields.io/badge/Hamgit-GitLab%20Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Hamgit profile" />
-    </a>
-    <a href="https://instagram.com/amirhossein_toghyani87">
-      <img src="https://img.shields.io/badge/Instagram-@amirhossein__toghyani87-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Front--End%20Development-7C3AED?style=for-the-badge" alt="Focus: Front-End Development" />
-  </p>
+### 💻 Front-End Developer | Web Development Enthusiast
 
-  <h3>Building clean, responsive and user-friendly web experiences.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B5CFF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Learning+JavaScript+%26+AJAX;Building+Modern+Web+Interfaces" alt="Typing SVG" />
 
-  <p>
-    I'm a front-end developer focused on turning designs into responsive interfaces,
-    improving existing UI, and growing my JavaScript skills through hands-on practice.
-  </p>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirHossein-T-2008)
+[![GitLab](https://img.shields.io/badge/HamGit-111111?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://hamgit.ir/amirhossein.toghyani1387)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/amirhossein_toghyani87)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Amirhossein8708)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:amirhossein.toghyani1387@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/989019993389)
 
 </div>
 
-⚡ About Me
-- 💻 Focused on Front-End Development and responsive web interfaces.
-- 🎨 Interested in clean layouts, reusable styles, and pixel-conscious implementation.
-- 🧩 Working with HTML, CSS, Sass, Bootstrap, and Tailwind CSS.
-- 🌱 Improving my JavaScript skills, including DOM manipulation, Fetch API, and asynchronous requests.
-- 🛠️ Familiar with Git workflows and front-end build tooling.
-- 📌 I value readable code, practical learning, and steady improvement.
-🧰 Tech Stack
-Core
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Interested in **Front-End Development** and modern web technologies.
+- 🎨 Focused on building responsive and user-friendly interfaces.
+- 📚 Currently improving my **JavaScript** skills and learning AJAX with Fetch API.
+- 🛠️ Working with modern development tools and version control.
+- 🚀 Always learning, practicing, and improving my coding skills.
+
+---
+
+## ⚡ Tech Stack
+
+### 🎨 Front-End
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript — learning" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass&theme=dark" alt="Front-End Skills" />
 </p>
 
-UI & Styling
+### ⚙️ Tools & Workflow
+
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Flexbox%20%26%20Grid-1F2937?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="Flexbox and CSS Grid" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,vite,webpack&theme=dark" alt="Development Tools" />
 </p>
 
-Tools & Other Experience
+### 🗄️ Back-End & Database
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=111827" alt="Grunt" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" alt="PHP and MySQL" />
 </p>
 
-🚀 What I'm Working On
-- Building responsive page layouts and reusable UI components.
-- Practicing JavaScript with DOM events, filtering, pagination, and the Fetch API.
-- Learning to make front-end code more consistent with linting and formatting tools.
-- Improving my workflow with Git and build tools.
-📌 Selected Work
-I'm currently organizing my public repositories and documenting projects so each one clearly explains its purpose, stack, and what I learned from it.
-Project highlights will be added here as repositories are reviewed and documented.
+### 📦 Build Tools
 
-📊 GitHub
+<p>
+  <img src="https://img.shields.io/badge/Grunt-111111?style=for-the-badge&logo=grunt&logoColor=FBA919" alt="Grunt" />
+  <img src="https://img.shields.io/badge/Bun-111111?style=for-the-badge&logo=bun&logoColor=FBF0DF" alt="Bun" />
+  <img src="https://img.shields.io/badge/npm-111111?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm" />
+</p>
+
+---
+
+## 📂 Selected Projects
+
+> Some of my development work includes the following projects. Visit my repositories to explore the code that is publicly available.
+
+- **Vatanam Modern** — Front-end development with modern web tooling.
+- **Vatanam Grunt** — Front-end development using a Grunt-based workflow.
+- **Bonza** — Web interface development and UI interactions.
+
+🔗 [Explore my GitHub repositories](https://github.com/AmirHossein-T-2008?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirHossein-T-2008&show_icons=true&hide_border=true&bg_color=080B16&title_color=A78BFA&text_color=DCE4F2&icon_color=60A5FA&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirHossein-T-2008&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B5CFF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossein-T-2008&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B5CFF&text_color=C9D1D9" alt="Top Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossein-T-2008&layout=compact&hide_border=true&bg_color=080B16&title_color=A78BFA&text_color=DCE4F2" alt="Most used languages on GitHub" />
+<br/>
 
-
-  <img src="https://streak-stats.demolab.com?user=AmirHossein-T-2008&hide_border=true&background=080B16&ring=7C3AED&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=DCE4F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=AmirHossein-T-2008&hide_border=true&background=0D1117&ring=9B5CFF&fire=00D9FF&currStreakLabel=9B5CFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
-🔗 Connect With Me
-<p>
-  <a href="https://hamgit.ir/amirhossein.toghyani1387">
-    <img src="https://img.shields.io/badge/Hamgit-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Hamgit profile" />
-  </a>
-  <a href="https://instagram.com/amirhossein_toghyani87">
-    <img src="https://img.shields.io/badge/Instagram-amirhossein__toghyani87-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
-  </a>
-</p>
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-✨ Learn. Build. Improve.
-  <sub>Thanks for visiting my profile!</sub>
+💬 Have a question or want to connect? Feel free to reach out!
+
+**Telegram:** [@Amirhossein8708](https://t.me/Amirhossein8708)
+
+**Instagram:** [@amirhossein_toghyani87](https://instagram.com/amirhossein_toghyani87)
+
+**Email:** [amirhossein.toghyani1387@gmail.com](mailto:amirhossein.toghyani1387@gmail.com)
+
+**WhatsApp:** [Send me a message](https://wa.me/989019993389)
+
+**HamGit:** [amirhossein.toghyani1387](https://hamgit.ir/amirhossein.toghyani1387)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://img.shields.io/badge/Made%20with-HTML%20%26%20Passion-9B5CFF?style=flat-square&labelColor=111111" alt="Made with HTML and passion" />
+
 </div>
